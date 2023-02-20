@@ -34,9 +34,9 @@ int main() {
         // input:
         int start, end;
         float proc;
-        printf("enter start sum: ");
+        printf("enter start starting sum: ");
         scanf_s("%i", &start);
-        printf("enter end sum: ");
+        printf("enter end credit sum: ");
         scanf_s("%i", &end);
         printf("enter procent: ");
         scanf_s("%f", &proc);
